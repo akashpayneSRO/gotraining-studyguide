@@ -1,52 +1,7 @@
 # The Ultimate Go Study Guide
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/hoanhan101/ultimate-go)
-](https://goreportcard.com/report/github.com/hoanhan101/ultimate-go)
-![](https://img.shields.io/github/stars/hoanhan101/ultimate-go)
-![](https://img.shields.io/github/forks/hoanhan101/ultimate-go)
-[![hackernews](https://img.shields.io/badge/hackernews-450%2B-orange)](https://news.ycombinator.com/item?id=20701671)
-[![r/golang](https://img.shields.io/badge/r/golang-255%2B-orange)](https://www.reddit.com/r/golang/comments/cqqi9h/ultimate_go_study_guides_with_heavily_documented/)
-[![r/compsci](https://img.shields.io/badge/r/compsci-60%2B-orange)](https://www.reddit.com/r/compsci/comments/cr3jzh/ultimate_go_study_guides_with_heavily_documented/)
-[![r/programming](https://img.shields.io/badge/r/programming-40%2B-orange)](https://www.reddit.com/r/programming/comments/cr3gqu/ultimate_go_study_guides_with_heavily_documented/)
-
-> [The Ultimate Go Study Guide eBook version →](https://gum.co/bpUYF)
-
-> [101+ coding interview problems with detailed solutions, test cases, and program analysis →](https://github.com/hoanhan101/algo)
-
-> [Join my mailing list to get the latest updates here →](https://tinyletter.com/hoanhan)
-
-<p align="center">
-  <img src="gopher.png" alt="gopher" width="300"/>
-</p>
-
-## Context
-
-> Last updates is on August 2020.
-
-A year ago, in August 2019, I shared this Ultimate Go Study Guide project on GitHub, and surprisingly, it got a lot of attention from the community.
-Fast forward to August 2020, it now has over 11K stars, 900 forks with the help of more than 20 contributors.
-
-The project is a collection of my notes while learning Go programming language from [Ardan Labs's Ultimate Go course](https://www.oreilly.com/library/view/ultimate-go-programming/9780134757476/).
-Honestly, I couldn’t thank Bill Kennedy and the Ardan Labs team enough for open-sourcing this wonderful material. They’ve done such great jobs putting together their knowledge, insights into their courses and making them available to the public.
-
-Different people have different learning styles. For me, I learn best by doing and walking through examples.
-That said, I take notes carefully, comment directly on the source code to make sure that I understand every single line
-of code as I am reading and also be mindful of the theories behind the scene.
-
-As Ultimate Go Study Guide keeps growing, there’s one issue that keeps coming up. That’s about the format of the project. Specifically,
-many people have requested an eBook version where the content is more streamlined and they can read it at their convenience.
-
-So, here comes The Ultimate Go Study Guide eBook version. For the last 3 months or so, I have spent most of my free time putting together
-everything here into a 200-page book. Other than all the good stuff from Ultimate Go, two new and better things in this version are:
-- Follow-along code input and output.
-- Diagrams.
-
-Hope it makes your journey of learning Go a bit easier. And again, thank you all for your support. I really appreciate it.
-
-**Here’s the link for the book: <https://gum.co/bpUYF>.**
-
-Note that I’ve made it free, though I would really appreciate your support.
-Regardless, you will receive the book in 2 different formats: PDF and ePub.
+Ultimate Go Study Guide is a collection of notes for students taking the Ultimate Go class. It is compiled of sample programs along side with line-by-line comments
+to help students follow along the code better.
 
 ## Table of Contents 
 
@@ -159,15 +114,3 @@ Regardless, you will receive the book in 2 different formats: PDF and ePub.
   - Profiling
     - Stack Trace: [Review](go/profiling/stack_trace_1.go) | [Packing](go/profiling/stack_trace_2.go)
     - GODEBUG: [Memory Tracing](go/profiling/memory_tracing.go)
-
-## References & resources:
-
-- [Ultimate Go Programming](https://www.safaribooksonline.com/library/view/ultimate-go-programming/9780134757476/)
-- [ardanlabs/gotraining/topics/courses/go](https://github.com/ardanlabs/gotraining/blob/master/topics/courses/go/README.md)
-- [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
-- [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack)
-- [Thoughts on Go performance optimization](https://github.com/dgryski/go-perfbook)
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/hoanhan101/ultimate-go.svg)](https://starchart.cc/hoanhan101/ultimate-go)
